@@ -19,7 +19,7 @@ class ClassStateExample extends Component {
       <div>
         <h1>This is where you call the state</h1>
         <h2>To call the state: {this.state.state2}</h2>
-        <button onClick={this.ReactEvent}> Click me </button>
+        {/* <button onClick={this.ReactEvent}> Click me </button> */}
       </div>
     );
   }
